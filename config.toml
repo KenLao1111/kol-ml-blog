@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'KOL-ML BLOG'
-theme = 'Loveit'
+theme = 'LoveIt'
 
 # 作者配置
 [author]
